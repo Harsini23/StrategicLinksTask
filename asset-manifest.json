@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/StrategicLinksTask/static/css/main.96291d62.chunk.css",
+    "main.js": "/StrategicLinksTask/static/js/main.f6451b3d.chunk.js",
+    "main.js.map": "/StrategicLinksTask/static/js/main.f6451b3d.chunk.js.map",
+    "runtime-main.js": "/StrategicLinksTask/static/js/runtime-main.02b23b1d.js",
+    "runtime-main.js.map": "/StrategicLinksTask/static/js/runtime-main.02b23b1d.js.map",
+    "static/js/2.6d1b3902.chunk.js": "/StrategicLinksTask/static/js/2.6d1b3902.chunk.js",
+    "static/js/2.6d1b3902.chunk.js.map": "/StrategicLinksTask/static/js/2.6d1b3902.chunk.js.map",
+    "index.html": "/StrategicLinksTask/index.html",
+    "static/css/main.96291d62.chunk.css.map": "/StrategicLinksTask/static/css/main.96291d62.chunk.css.map",
+    "static/js/2.6d1b3902.chunk.js.LICENSE.txt": "/StrategicLinksTask/static/js/2.6d1b3902.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/StrategicLinksTask/static/media/img.4e261347.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02b23b1d.js",
+    "static/js/2.6d1b3902.chunk.js",
+    "static/css/main.96291d62.chunk.css",
+    "static/js/main.f6451b3d.chunk.js"
+  ]
+}
